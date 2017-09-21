@@ -1,0 +1,43 @@
+* {
+  background-origin: border-box; }
+
+nav {
+  text-align: right;
+  margin: 0, auto;
+  background-color: white; }
+  nav img {
+    position: relative;
+    top: 5px;
+    left: 6em;
+    float: left;
+    height: 3.5em; }
+  nav .buttons {
+    position: relative;
+    right: 4em; }
+
+.mid_container {
+  background-color: #0A8E83;
+  width: 100%; }
+  .mid_container .text {
+    position: relative;
+    left: 1em;
+    padding-top: 3em;
+    color: white; }
+  .mid_container img {
+    position: relative;
+    left: 6.5em;
+    height: 25em;
+    padding-top: 1em; }
+
+.bottom_row .bottom_box {
+  text-align: center; }
+  .bottom_row .bottom_box h6 {
+    font-size: 14px;
+    font-weight: bold;
+    color: #5F6164; }
+  .bottom_row .bottom_box p {
+    font-size: 12px; }
+  .bottom_row .bottom_box img {
+    width: 90%; }
+
+/*# sourceMappingURL=depot.css.map */
